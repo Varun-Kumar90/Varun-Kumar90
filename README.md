@@ -1,109 +1,37 @@
- <div align="center">
+<img src="assets/header.svg" alt="Varun Kumar — AI/ML, Computer Vision, Data Science" width="100%">
 
-Varun Kumar
+Computer Science student building intelligent systems and learning by shipping real projects, mostly around machine learning, computer vision and data.
 
-AI/ML Developer · Computer Vision · Data Science
+[GitHub](https://github.com/Varun-Kumar90) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/varun-kumara35301315) &nbsp;·&nbsp; [Email](mailto:varun.chaudhary0025@gmail.com)
 
-<a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=500&lines=Building+with+data+and+AI;Exploring+computer+vision;Learning+by+building+real+projects">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=500&lines=Building+with+data+and+AI;Exploring+computer+vision;Learning+by+building+real+projects" alt="Typing animation" />
-</a>
+<img src="assets/divider.svg" alt="" width="100%">
 
+### About
 
+| | |
+|:--|:--|
+| **Focus** | Artificial Intelligence & Machine Learning |
+| **Interests** | Computer Vision · Data Science · Applied AI |
+| **Approach** | Experiment, build, improve the fundamentals |
 
+<img src="assets/divider.svg" alt="" width="100%">
 
-</div>
+### Selected work
 
-whoami
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **[DFU Detection & Wagner Grading](https://github.com/Varun-Kumar90/DFU_using_DeepLearning)** | Two-stage deep-learning pipeline that detects diabetic foot ulcers in images and grades their severity. | `Python` `TensorFlow` `Keras` `PyTorch` |
+| **[Online Retail Sales Analysis](https://github.com/Varun-Kumar90/online-retail_sales_analysis_powerbi)** | Power BI dashboard on sales trends, customer behaviour and global demand. | `Power BI` `Data Viz` |
+| **[Smart Seat Belt Safety System](https://github.com/Varun-Kumar90/Seat_Belt_warning_using_Arduino)** | Arduino circuit with LED and buzzer alerts based on seat belt status, simulated in Tinkercad. | `Arduino` `C++` `Tinkercad` |
 
-I'm a Computer Science student interested in building intelligent systems and solving real-world problems using data.
+Also: [Heart Disease Predictor](https://github.com/Varun-Kumar90/Heart_Disease_predictor) · [Producer–Consumer in Java](https://github.com/Varun-Kumar90/java_Consumer_Producer_Problem)
 
-Exploring Machine Learning, Deep Learning & Computer Vision
+<img src="assets/divider.svg" alt="" width="100%">
 
-Interested in AI applications, model development and data-driven solutions
+### Stack
 
-Learning by experimenting, building projects and improving my fundamentals
+`Python` `C++` `Java` `TensorFlow` `Keras` `PyTorch` `Jupyter` `Power BI` `Arduino` `Git`
 
-> focus:       Artificial Intelligence & Machine Learning
-> interests:   Computer Vision | Data Science | Applied AI
-> philosophy:  build. learn. iterate.
+<br>
 
-tech_stack
-
-Languages & Data
-
-
-
-
-
-
-
-AI / Deep Learning
-
-
-
-
-
-
-Tools & Platforms
-
-
-
-
-
-
-selected_projects
-
-01. DFU Detection & Wagner Grading System
-Deep Learning · Computer Vision
-
-A two-stage deep-learning pipeline designed to detect diabetic foot ulcers from medical images and classify their severity using Wagner grades.
-
-Python · TensorFlow · Keras · EfficientNet · PyTorch
-
-↗ View project
-
-02. Online Retail Sales Analysis
-Data Analytics · Business Intelligence
-
-A sales analysis project using Power BI to explore retail data and present insights through interactive visualizations and dashboards.
-
-Power BI · Data Analysis · Data Visualization
-
-↗ View project
-
-03. Smart Seat Belt Safety System
-Arduino · Embedded Systems
-
-An Arduino-based safety project simulated in Tinkercad that uses an LED and buzzer to provide visual and audio indications based on seat belt status.
-
-Arduino · Tinkercad · Circuit Simulation
-
-↗ View my repositories
-
-
-
-github_activity
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Varun-Kumar90&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=E6EDF3&icon_color=67E8F9&rank_icon=github" alt="GitHub statistics" />
-
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Kumar90&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=E6EDF3" alt="Most used languages" />
-
-</div>
-
-connect
-
-Interested in AI, machine learning, computer vision and meaningful collaborations.
-
-GitHub: @Varun-Kumar90
-
-LinkedIn: https://www.linkedin.com/in/varun-kumara35301315 
-
-Email: varun.chaudhary0025@gmail.com
-
-<div align="center">
-
-<sub><code>less noise. more signal.</code></sub>
-
-</div>
+<p align="center"><sub><code>less noise. more signal.</code></sub></p>
