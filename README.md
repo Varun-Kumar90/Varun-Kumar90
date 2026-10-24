@@ -14,7 +14,7 @@ Two frameworks in one pipeline: a Keras model for detection and a timm model in 
 Built with OpenCV, Pillow and albumentations for image handling
 Next up: Flask REST API, batch processing, cloud deployment and PDF report export
 
-View project →
+**[View project →](https://github.com/Varun-Kumar90/DFU_using_DeepLearning)**
 
 <br>
 Online Retail Sales Analysis
@@ -32,7 +32,7 @@ Cleaned the data by removing returns and invalid rows (quantity or price ≤ 0)
 Built a Revenue = Quantity × Unit Price measure used across the report
 Ended with concrete recommendations: plan around seasonality, retain top customers, expand where demand is high
 
-View project →
+**[View project →](https://github.com/Varun-Kumar90/online-retail_sales_analysis_powerbi)**
 
 <br>
 Smart Seat Belt Safety System
@@ -41,10 +41,10 @@ Arduino C++ Embedded Systems
 
 An Arduino circuit that gives a visual (LED) and audio (buzzer) warning based on seat belt status, designed and simulated in Tinkercad, and documented as a full academic project report.
 
-View project →
+**[View project →](https://github.com/Varun-Kumar90/Seat_Belt_warning_using_Arduino)**
 
 <br>
 
 <sub><b>also built</b>  ·  <a href="https://github.com/Varun-Kumar90/Heart_Disease_predictor">Heart Disease Predictor</a> (classification models on patient health data, Jupyter)  ·  <a href="https://github.com/Varun-Kumar90/java_Consumer_Producer_Problem">Producer–Consumer in Java</a> (multithreading with <code>synchronized</code>, <code>wait()</code> and <code>notify()</code>)</sub>
 
-<img src="assets/sec-activity.svg" alt="04 / activity" width="100%"> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varun-Kumar90/Varun-Kumar90/output/github-snake-dark.svg"> <img alt="contribution snake" src="https://raw.githubusercontent.com/Varun-Kumar90/Varun-Kumar90/output/github-snake.svg" width="100%"> </picture> </p> <img src="assets/sec-goals.svg" alt="05 / goals" width="100%"> <table> <tr> <td valign="middle"> <b>Exploring now</b><br> Deep-learning pipelines, computer vision, data storytelling and embedded systems. <br><br> <b>Where I'm headed</b><br> Graduate in 2027 with a portfolio of ML and CV projects that run outside a notebook, starting with taking the DFU tool from a local app to a deployed one. <br><br> <i>"Make it work, make it right, make it fast."</i> &nbsp;— Kent Beck </td> <td width="300" align="center" valign="middle"> <img src="assets/network.svg" alt="animated neural network" width="280"> </td> </tr> </table> <br> <p align="center"><sub><code>less noise. more signal.</code></sub></p>
+<img src="assets/sec-activity.svg" alt="04 / activity" width="100%"> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varun-Kumar90/Varun-Kumar90/output/github-snake-dark.svg"> <img alt="contribution snake" src="https://raw.githubusercontent.com/Varun-Kumar90/Varun-Kumar90/output/github-snake.svg" width="100%"> </picture> </p> <img src="assets/sec-goals.svg" alt="05 / goals" width="100%"> <table> <tr> <td valign="middle"> <b>Exploring now</b><br> Deep-learning pipelines, computer vision, data storytelling and embedded systems. <br><br> <b>Where I'm headed</b><br> Graduate in 2027 with a portfolio of ML and CV projects that run outside a notebook, starting with taking the DFU tool from a local app to a deployed one. <br><br> <i>"Make it work, make it right, make it fast."</i> &nbsp;— Kent Beck </td> <td width="300" align="center" valign="middle"> <img src="assets/network.svg" alt="animated neural network" width="280"> </td> </tr> </table> <br> <img src="assets/footer.svg" alt="less noise. more signal." width="100%">
