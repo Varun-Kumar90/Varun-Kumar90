@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 44" width="900" height="44" role="img" aria-label="journey">
+  <style>
+    .n { fill:#0e7490; font:700 15px 'JetBrains Mono','SF Mono',Menlo,Consolas,monospace; letter-spacing:1px }
+    .l { fill:#57606a; font:400 15px 'JetBrains Mono','SF Mono',Menlo,Consolas,monospace; letter-spacing:1px }
+    .r { stroke:#8c959f; stroke-width:1; opacity:.35 }
+    @media (prefers-color-scheme: dark) { .n{fill:#67e8f9} .l{fill:#8b949e} .r{stroke:#8b949e} }
+  </style>
+  <text y="28" x="8"><tspan class="n">04</tspan><tspan class="l"> / journey</tspan></text>
+  <line class="r" x1="137" y1="23" x2="892" y2="23"/>
+</svg>
