@@ -14,7 +14,7 @@ Two frameworks in one pipeline: a Keras model for detection and a timm model in 
 Built with OpenCV, Pillow and albumentations for image handling
 Next up: Flask REST API, batch processing, cloud deployment and PDF report export
 
-View project →
+**[View project →](https://github.com/Varun-Kumar90/DFU_using_DeepLearning)**
 
 <br>
 Online Retail Sales Analysis
