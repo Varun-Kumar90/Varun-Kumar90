@@ -32,7 +32,7 @@ Cleaned the data by removing returns and invalid rows (quantity or price ≤ 0)
 Built a Revenue = Quantity × Unit Price measure used across the report
 Ended with concrete recommendations: plan around seasonality, retain top customers, expand where demand is high
 
-View project →
+**[View project →](https://github.com/Varun-Kumar90/Seat_Belt_warning_using_Arduino)**
 
 <br>
 Smart Seat Belt Safety System
