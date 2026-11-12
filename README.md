@@ -41,7 +41,7 @@ Arduino C++ Embedded Systems
 
 An Arduino circuit that gives a visual (LED) and audio (buzzer) warning based on seat belt status, designed and simulated in Tinkercad, and documented as a full academic project report.
 
-View project →
+**[View project →](https://github.com/Varun-Kumar90/Seat_Belt_warning_using_Arduino)**
 
 <br>
 
